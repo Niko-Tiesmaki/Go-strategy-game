@@ -1,0 +1,26 @@
+td {
+    width: 50px;
+    height: 50px;
+    border: 10px;
+    border-color: black;
+}
+body {
+    background-image: url("Background.jpg")
+}
+#otsikot{
+    color:white;
+}
+.tausta {
+    background-color: grey;
+}
+.nappula1 {
+    background-color: blue;
+    color: white;
+}
+.nappula2 {
+    background-color: darkred;
+    color: white;
+}
+.nappula3{
+    background-color: lightblue;
+}
